@@ -35,8 +35,8 @@ Saya ingin menjadi seorang Fullstack Developer muda yang bersemangat dalam dunia
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rendiichtiar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rendiichtiar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rendiichtiarp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rendiichtiarp&layout=compact&theme=radical)
 
 ## 🌐 Mari Terhubung!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rendiictiar)
